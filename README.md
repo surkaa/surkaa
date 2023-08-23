@@ -1,4 +1,4 @@
-[![Surkaa](readme-typing-svg.demolab.com/?font=Noto+Sans&weight=600&pause=1000&color=000000&width=435&lines=👋+Hello+I%27m+Surkaa)]
+[![SurKaa](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&pause=1000&color=000000&width=435&lines=%F0%9F%91%8B+Hello+I'm+SurKaa)](https://git.io/typing-svg)
 
 **About me**
 
