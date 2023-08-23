@@ -1,4 +1,4 @@
-### 👋 Hello I'm SurKaa
+[![Surkaa](readme-typing-svg.demolab.com/?font=Noto+Sans&weight=600&pause=1000&color=000000&width=435&lines=👋+Hello+I%27m+Surkaa)]
 
 **About me**
 
