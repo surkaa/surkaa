@@ -4,7 +4,7 @@
 
 - 💼 Student at [Tianjin Normal University](https://www.tjnu.edu.cn/)
 
-- ❤️ I love writing [Kotlin](https://github.com/topics/kotlin) and [Java](https://github.com/topics/java), and building fun experiments on type-level
+- ❤️ I love writing [Java](https://github.com/topics/java) and [TypeScript](https://github.com/topics/TypeScript), and building fun experiments on type-level
 
 - 💬 Ask me about anything [here](https://github.com/winingYang/winingyang/issues)
 
