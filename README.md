@@ -6,7 +6,7 @@
 
 - ❤️ I love writing [Java](https://github.com/topics/java) and [TypeScript](https://github.com/topics/TypeScript), and building fun experiments on type-level
 
-- 💬 Ask me about anything [here](https://github.com/winingYang/winingyang/issues)
+- 💬 Ask me about anything [here](https://github.com/surkaa/surkaa/issues)
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=surkaa&hide_border=true&show_icons=true&line_height=21&theme=github_dark" alt="SurKaa's github stats" /> |
 | ------ |
