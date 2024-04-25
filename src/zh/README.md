@@ -2,29 +2,26 @@
 home: true
 layout: BlogHome
 icon: home
-title: 博客主页
+title: 我的空间
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 你博客的名称
+heroText: 杨伟宁
+tagline: 我将在这里进行自我介绍
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
 projects:
   - icon: project
-    name: 项目名称
-    desc: 项目详细描述
-    link: https://你的项目链接
+    name: 单词本
+    desc: 作为负责人和开发者使用java编写了单词本安卓app, 获取了天津师范大学软件开发比赛第一名
 
-  - icon: link
-    name: 链接名称
-    desc: 链接详细描述
-    link: https://链接地址
+  - icon: project
+    name: 物流仓库pda app
+    desc: 在23.9-24.4月份, 作为开发者使用kotlin并结合pda的sdk编写了用于货物出入库的app
 
-  - icon: book
-    name: 书籍名称
-    desc: 书籍详细描述
-    link: https://你的书籍链接
+  - icon: project
+    name: 海外仓前后端
+    desc: 在23.9-24.4月份作为开发者完成需求代码编写
 
-  - icon: article
-    name: 文章名称
+  - icon: project
+    name: seller-erp
     desc: 文章详细描述
     link: https://你的文章链接
 
