@@ -1,8 +1,8 @@
 ---
 icon: circle-info
-cover: /assets/images/cover3.jpg
+cover: /assets/images/cover4.jpg
 ---
 
-# Intro Page
+# 介绍
 
-Place your introduction and profile here.
+毕业于天津师范大学的一名计科学生
