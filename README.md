@@ -1,11 +1,17 @@
-### 👋 Hello I'm SurKaa
+# 👋 Hello, I'm SurKaa
 
-**About me**
+### 🚀 About Me
+- 🎓 **Education**: Student at [Guangdong University of Technology](https://www.gdut.edu.cn/)
+- 🦀 **Passion**: Love writing **Rust**, exploring the boundaries of **Type-level programming**.
+- 💬 **Interaction**: Ask me about anything [here](https://github.com/surkaa/surkaa/issues)
 
-- 💼 Student at [Tianjin Normal University](https://www.tjnu.edu.cn/)
+### 🛠 Languages & Tools
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=white)
 
-- ❤️ I love writing [Java](https://github.com/topics/java) and [TypeScript](https://github.com/topics/TypeScript), and building fun experiments on type-level
 
-- 💬 Ask me about anything [here](https://github.com/surkaa/surkaa/issues)
+### 📊 GitHub Stats
 
-<img align="center" src="https://wakatime.com/share/@surkaa/786a4704-7be0-4dba-a960-9422079c0c88.svg" alt="SurKaa's Languages" />
+| <img align="center" src="https://github-stats.surkaa.cn/api?username=surkaa&hide_border=true&show_icons=true&line_height=21&theme=github_dark" alt="SurKaa's github stats" /> |
+| ------ |
+| <img align="center" src="https://github-stats.surkaa.cn/api/wakatime?username=@surkaa&layout=compact&theme=github_dark&hide_border=true" /> |
