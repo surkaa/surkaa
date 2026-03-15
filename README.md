@@ -10,8 +10,6 @@
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=white)
 
 
-### 📊 GitHub Stats
+###  Stats
 
-| <img align="center" src="https://github-stats.surkaa.cn/api?username=surkaa&hide_border=true&show_icons=true&line_height=21&theme=github_dark" alt="SurKaa's github stats" /> |
-| ------ |
-| <img align="center" src="https://github-stats.surkaa.cn/api/wakatime?username=@surkaa&layout=compact&theme=github_dark&hide_border=true" /> |
+<img align="center" src="https://github-stats.surkaa.cn/api/wakatime?username=@surkaa&layout=compact&theme=github_dark&hide_border=true" />
