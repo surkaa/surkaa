@@ -12,4 +12,4 @@
 
 ###  Stats
 
-<img align="center" src="https://github-stats.surkaa.cn/api/wakatime?username=@surkaa&layout=compact&theme=github_dark&hide_border=true" />
+<img align="center" src="https://wakatime.com/share/@surkaa/d8fd2932-a017-451a-8021-f7e45f814e74.svg" />
